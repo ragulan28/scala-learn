@@ -1,0 +1,14 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="org.apache.hadoop.hbase.HBaseConfiguration" />
+          <option value="org.apache.spark._" />
+          <option value="org.apache.spark.streaming.kafka.v09.KafkaUtils" />
+          <option value="scala.reflect.runtime.universe" />
+        </array>
+      </option>
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
